@@ -12,4 +12,5 @@ Jupyter Notebook, Python, OpenCV, Matplotlib, NumPy and MoviePy
 3. Proceed to run each cell. </br>
 4. You are free to try my pipeline on your own clips. The code cells present in **Clips** section will help you. 
 
- 
+### License
+Licensed under [MIT License](https://github.com/KushalBKusram/LaneDetection/blob/master/LICENSE).
